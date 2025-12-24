@@ -40,4 +40,4 @@ I am passionate about building intelligent systems that solve real-world problem
 ### 📫 Connect with Me
 
 <!-- Add your LinkedIn or other links here -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lohith-mudunuri-056a77227/)

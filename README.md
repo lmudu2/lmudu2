@@ -22,7 +22,7 @@ I am passionate about building intelligent systems that solve real-world problem
 
 ### 🔭 Recent Projects
 
-*   **[VideoMind](https://github.com/lmudu2/video-mind)**: Real-time Computer Vision + GenAI Dashboard using YOLOv8 and LLaVA.
+*   **[Live Video Description](https://github.com/lmudu2/live-video-description)**: Real-time Computer Vision + GenAI Dashboard using YOLOv8 and LLaVA.
 *   **RAG Masterclass**: End-to-end Retrieval Augmented Generation pipeline using ChromaDB and Ollama.
 *   **Job Bot**: Automated job application agent using Playwright and LLMs.
 

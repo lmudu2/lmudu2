@@ -36,7 +36,18 @@ I am a seasoned Engineer with **5+ years of experience** bridging the gap betwee
 
 ---
 
-### 🏆 Certifications
+### � Education
+
+*   **Master of Science in Data Science**
+    *   University of the Cumberlands, KY | *Expected Aug 2025*
+*   **Master of Science in Management Information Systems**
+    *   University of Illinois Springfield | *Dec 2020*
+*   **Bachelor of Technology in Electronics & Communication**
+    *   JNTU, India | *May 2017*
+
+---
+
+### �🏆 Certifications
 
 *   **Google Certified Professional Data Engineer**
 
